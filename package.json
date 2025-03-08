@@ -17,7 +17,7 @@
     "register-service-worker": "^1.7.1",
     "vue": "^2.6.11",
     "vue-analytics": "^5.22.1",
-    "vue-audio-visual": "^2.0.2",
+    "vue-audio-visual": "^3.0.10",
     "vue-page-transition": "^0.2.2",
     "vue-pwa-asset-generator": "^1.0.0",
     "vue-radial-progress": "^0.3.1",
